@@ -1,12 +1,12 @@
 
-#🌐 Diseño y Administración de Redes
-> ##Practica 2 Implementacion de un chtabot en WhatsApp en AWS con n8n
+# 🌐 Diseño y Administración de Redes
+## Practica 2 Implementacion de un chtabot en WhatsApp en AWS con n8n
 <p align="center">
   <img src="https://1000marcas.net/wp-content/uploads/2025/03/Amazon-Web-Services-Emblem.png" alt="AWS" width="100"/>
   <img src="https://netolink.com/wp-content/uploads/2025/01/n8n.png" alt="n8n" width="100"/>
 </p>
 
-#####👨‍🎓Creado por Ruiz Torres Dante Vladimir 
+##### 👨‍🎓Creado por Ruiz Torres Dante Vladimir 
 ##### 👨‍🏫Asesorado por  Juárez Hernández Miguel Ángel
 
 # 🌐 Configuración de AWS para Docker, Nginx y Certificado SSL con Certbot usando n8n
